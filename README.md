@@ -1,4 +1,4 @@
-# Curso de Django: Templates e Boas Práticas
+# Curso de Django: Templates e Boas Práticas.
 
 Este repositório contém os materiais e projetos desenvolvidos durante o curso "Django, Templates e Boas Práticas" oferecido pela Alura e ministrado pelo professor Guilherme Lima. O curso aborda técnicas avançadas para o desenvolvimento com Django, enfatizando a aplicação de templates e a aderência às boas práticas de programação.
 
